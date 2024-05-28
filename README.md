@@ -1,6 +1,6 @@
 [download](https://github.com/aat4f/date-corrector/releases)
 
-Fix date and time of photos exported from Lightroom Mobile to Photos.
+Fixes date and time of photos in iOS Photos app.
 
 Steps:
 1. Transfer images to PC.
